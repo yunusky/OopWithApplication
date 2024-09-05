@@ -1,6 +1,6 @@
 @startuml
 title Product Model
 class Product {
-    
+    Product()
 }
 @enduml
