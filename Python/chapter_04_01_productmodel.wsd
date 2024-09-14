@@ -17,4 +17,13 @@ class Product {
     --
     +getTotalPrice():float
 }
+
+class Object {
+    toString():string
+}
+
+Product -up-|> Object
+
+hide empty members
+
 @enduml
